@@ -10,6 +10,10 @@
       "surnames": "Sanz",
       "title": "",
       "description": "Hola. Soy un segoviano emigrado a Bilbao apasionado de las nuevas tecnologías, en todas sus formas. Me gusta tanto el desarrollo como el diseño y todo lo que rodea la creación de programas que la gente usa.",
+      "avatar": {
+        "alt": "eightbit-grande.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/5962689d-19a7-4129-bde2-6210d307b122_eightbit-grande.png"
+      },
       "location": {
         "notes": "Bilbao"
       }
@@ -22,6 +26,12 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/enriquesanz"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Tengo un podcast",
+        "fact": "Junto con mis amigos, llevo desde hace seis años haciendo el podcast Planeta Cuñao. Y estoy muy orgulloso de ello."
       }
     ]
   },
